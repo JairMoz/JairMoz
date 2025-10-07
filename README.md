@@ -23,8 +23,7 @@
 
 ### 🤖 Artificial Intelligence
 
-Data Science and Machine Learning with Python
-Learning: Data Science, Machine Learning, Generative and Conversational AI
+Learning: Data Science, Machine Learning with Python and Generative and Conversational AI
 
 ### :mag: Other Tech Skills
 
