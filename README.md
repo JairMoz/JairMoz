@@ -1,8 +1,7 @@
 # Luis Jair Montes de Oca Zubia
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Jairmoz-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairmoz)
-
-[![Email Badge](https://img.shields.io/badge/Email-ljairmoz@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ljairmoz@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-JAIRMOZ-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairmoz) 
+[![Email Badge](https://img.shields.io/badge/EMAIL-ljairmoz@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ljairmoz@gmail.com)
 
 ### About me
 
@@ -31,7 +30,7 @@ Learning: Data Science, Machine Learning, Generative and Conversational AI
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 
 <!--
