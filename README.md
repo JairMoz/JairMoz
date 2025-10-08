@@ -5,7 +5,7 @@
 
 ### About me
 
-:man_technologist: IT Solutions Engineer | Python Development | Automation Strategist (Python/SQL) | Data Analysis & AI  |  IT Strategy and Project Management
+:man_technologist: IT Strategy and Project Management |  IT Solutions Engineer - Python Development (Early Career) |  Automation (Python/SQL)
 
 :desktop_computer: Python, SQL
 
