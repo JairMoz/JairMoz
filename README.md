@@ -27,9 +27,8 @@ Learning: Data Science, Machine Learning with Python and Generative and Conversa
 
 ### :mag: Other Tech Skills
 
-![VS Code](https://img.shields.io/badge/VS%20Code-Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-
+![VS Code](https://img.shields.io/badge/VS%20Code-%20-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) 
+![JUPYTER](https://img.shields.io/badge/JUPYTER-FF6A13?style=flat-square&logo=jupyter&logoColor=white)
 
 
 
