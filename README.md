@@ -1,6 +1,7 @@
 # Luis Jair Montes de Oca Zubia
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-JairMoz-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairmoz)
+
 [![Email Badge](https://img.shields.io/badge/Email-ljairmoz@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ljairmoz@gmail.com)
 
 ### About me
