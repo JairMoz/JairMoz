@@ -6,7 +6,7 @@
 
 ### About me
 
-:man_technologist: IT Strategy and Project Management | Cloud Computing | IT Solutions Engineer - Python Development (Early Career) |  Automation (Python/SQL)
+:man_technologist: IT Strategy and Project Management | Cloud Computing & Deployment | IT Solutions Engineer - Python Development (Early Career) |  Automation (Python/SQL)
 
 :desktop_computer: Python, SQL
 
@@ -16,8 +16,13 @@
 
  ⚡ Fun fact: I am also a music composer for audiovisual media :blush:
 
-### ☁️ Cloud Infrastructure
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+### ☁️ Cloud Infrastructure & Deployment
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![IaaS](https://img.shields.io/badge/Infrastructure_as_a_Service-24292e?style=for-the-badge&logo=icloud&logoColor=white)
+![Deployment](https://img.shields.io/badge/Cloud_Applications-34A853?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Networking](https://img.shields.io/badge/Network_Security-EA4335?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+- **Core Competencies:** IaaS & PaaS Architecture, Kubernetes, Virtual Networking, and Scalable Storage.
 
 ### 👩‍💻 Programming
 
