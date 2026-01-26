@@ -6,7 +6,7 @@
 
 ### About me
 
-:man_technologist: IT Strategy and Project Management |  IT Solutions Engineer - Python Development (Early Career) |  Automation (Python/SQL)
+:man_technologist: IT Strategy and Project Management | Cloud Computing | IT Solutions Engineer - Python Development (Early Career) |  Automation (Python/SQL)
 
 :desktop_computer: Python, SQL
 
@@ -16,6 +16,8 @@
 
  ⚡ Fun fact: I am also a music composer for audiovisual media :blush:
 
+### ☁️ Cloud Infrastructure
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 👩‍💻 Programming
 
