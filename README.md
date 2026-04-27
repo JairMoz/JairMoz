@@ -31,10 +31,18 @@
 
 ### 🤖 Artificial Intelligence
 
-Learning: Data Science, Machine Learning with Python and Generative and Conversational AI
+![ADK Mastery](https://img.shields.io/badge/ADK_Mastery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud Agents](https://img.shields.io/badge/Google_Cloud_Agents-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Agent Creation](https://img.shields.io/badge/Agent_Creation-8E44AD?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_2.0-8E44AD?style=for-the-badge&logo=google-gemini&logoColor=white)
+
+- **Core Focus:** Developing autonomous multi-agent systems and sophisticated orchestration workflows using **Google ADK**.
+- **Specialization:** Implementation of **Google Cloud Agents** for scalable AI solutions and enterprise-grade automation.
+- **Learning Path:** Advanced Data Science, Machine Learning integration, and Conversational AI architecture.
 
 ### :mag: Other Tech Skills
 
+![Antigravity](https://img.shields.io/badge/Antigravity-232F3E?style=for-the-badge&logo=rocket&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%20-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) 
 ![JUPYTER](https://img.shields.io/badge/JUPYTER-FF6A13?style=flat-square&logo=jupyter&logoColor=white)
 
